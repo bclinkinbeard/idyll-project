@@ -1,0 +1,1 @@
+const rsh = require('../../../idyll-lang/idyll/node_modules/react-syntax-highlighter/dist/light');
